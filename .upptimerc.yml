@@ -11,6 +11,8 @@ sites:
     url: https://www.piercedarrows.nl
   - name: My Grafana dashboard
     url: https://$UPPTIME_GRAFANA
+  - name: Upptime-test-site
+    url: https://$UPPTIME_UPPTIME-TEST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
