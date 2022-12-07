@@ -37,23 +37,21 @@
   },
   {
     "name": "Pierced Arrows",
-    "url": "https://www.pierced-arrows.nl",
-    "icon": "https://icons.duckduckgo.com/ip3/www.pierced-arrows.nl.ico",
+    "url": "https://www.piercedarrows.nl",
+    "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "down",
-    "uptime": "5.59%",
-    "uptimeDay": "5.59%",
-    "uptimeWeek": "5.59%",
-    "uptimeMonth": "5.59%",
-    "uptimeYear": "5.59%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-12-07": 0
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 359,
+    "timeDay": 359,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
+    "dailyMinutesDown": {}
   },
   {
     "name": "My Grafana dashboard",
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1053,
-    "timeDay": 1053,
-    "timeWeek": 1053,
-    "timeMonth": 1053,
-    "timeYear": 1053,
+    "time": 857,
+    "timeDay": 857,
+    "timeWeek": 857,
+    "timeMonth": 857,
+    "timeYear": 857,
     "dailyMinutesDown": {}
   }
 ]
