@@ -8,7 +8,7 @@ sites:
   - name: KCG
     url: https://kunstrijclubgroningen.nl
   - name: Pierced Arrows
-    url: https://www.pierced-arrows.nl
+    url: https://www.piercedarrows.nl
   - name: My Grafana dashboard
     url: https://$UPPTIME_GRAFANA
 
