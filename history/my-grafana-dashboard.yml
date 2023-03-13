@@ -1,7 +1,7 @@
 url: https://$UPPTIME_GRAFANA
-status: up
-code: 200
-responseTime: 1102
-lastUpdated: 2023-03-13T14:26:07.657Z
+status: down
+code: 502
+responseTime: 373
+lastUpdated: 2023-03-13T18:59:35.725Z
 startTime: Wed Dec 07 2022 07:49:39 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
