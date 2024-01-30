@@ -1,7 +1,7 @@
 url: https://$UPPTIME_UPPTIME_TEST
-status: down
-code: 502
-responseTime: 651
-lastUpdated: 2024-01-29T23:08:11.621Z
+status: up
+code: 200
+responseTime: 455
+lastUpdated: 2024-01-30T06:41:36.597Z
 startTime: 2022-12-07T19:07:46.000Z
 generator: Upptime <https://github.com/upptime/upptime>
