@@ -75,18 +75,19 @@
     "url": "https://$UPPTIME_GRAFANA",
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "my-grafana-dashboard",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.60%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "98.59%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "97.81%",
-    "time": 1734,
+    "uptimeYear": "97.82%",
+    "time": 1735,
     "timeDay": 1160,
     "timeWeek": 1219,
     "timeMonth": 1048,
     "timeYear": 1561,
     "dailyMinutesDown": {
+      "2024-03-15": 1,
       "2024-03-13": 141,
       "2024-01-23": 27,
       "2024-01-19": 16,
@@ -179,8 +180,7 @@
       "2023-04-08": 19,
       "2023-04-07": 19,
       "2023-04-06": 19,
-      "2023-04-05": 20,
-      "2023-04-04": 19
+      "2023-04-05": 20
     }
   },
   {
@@ -189,7 +189,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "39.03%",
+    "uptime": "39.02%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
@@ -200,7 +200,7 @@
     "timeMonth": 771,
     "timeYear": 1213,
     "dailyMinutesDown": {
-      "2024-03-15": 28,
+      "2024-03-15": 177,
       "2024-03-14": 1440,
       "2024-03-13": 1440,
       "2024-03-12": 1440,
