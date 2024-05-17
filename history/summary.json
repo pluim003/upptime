@@ -6,9 +6,9 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "94.99%",
-    "uptimeWeek": "93.63%",
-    "uptimeMonth": "95.84%",
+    "uptimeDay": "95.71%",
+    "uptimeWeek": "93.74%",
+    "uptimeMonth": "95.86%",
     "uptimeYear": "99.60%",
     "time": 706,
     "timeDay": 728,
@@ -16,7 +16,7 @@
     "timeMonth": 633,
     "timeYear": 673,
     "dailyMinutesDown": {
-      "2024-05-16": 72,
+      "2024-05-16": 62,
       "2024-05-15": 51,
       "2024-05-14": 15,
       "2024-05-13": 102,
@@ -62,9 +62,9 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.72%",
-    "uptimeDay": "95.04%",
-    "uptimeWeek": "93.69%",
-    "uptimeMonth": "96.12%",
+    "uptimeDay": "95.75%",
+    "uptimeWeek": "93.79%",
+    "uptimeMonth": "96.14%",
     "uptimeYear": "99.61%",
     "time": 3670,
     "timeDay": 4322,
@@ -72,7 +72,7 @@
     "timeMonth": 4209,
     "timeYear": 3753,
     "dailyMinutesDown": {
-      "2024-05-16": 71,
+      "2024-05-16": 61,
       "2024-05-15": 51,
       "2024-05-14": 15,
       "2024-05-13": 102,
@@ -119,9 +119,9 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.74%",
-    "uptimeDay": "95.12%",
-    "uptimeWeek": "93.91%",
-    "uptimeMonth": "96.23%",
+    "uptimeDay": "95.81%",
+    "uptimeWeek": "94.01%",
+    "uptimeMonth": "96.25%",
     "uptimeYear": "99.63%",
     "time": 650,
     "timeDay": 605,
@@ -129,7 +129,7 @@
     "timeMonth": 625,
     "timeYear": 645,
     "dailyMinutesDown": {
-      "2024-05-16": 71,
+      "2024-05-16": 61,
       "2024-05-15": 51,
       "2024-05-13": 98,
       "2024-05-12": 148,
@@ -233,8 +233,7 @@
       "2023-05-22": 38,
       "2023-05-21": 19,
       "2023-05-20": 37,
-      "2023-05-19": 400,
-      "2023-05-18": 1058
+      "2023-05-19": 400
     }
   },
   {
@@ -243,18 +242,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "34.36%",
+    "uptime": "34.35%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "12.25%",
+    "uptimeYear": "12.24%",
     "time": 1145,
     "timeDay": 1265,
     "timeWeek": 643,
     "timeMonth": 627,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-05-16": 1427,
+      "2024-05-17": 30,
+      "2024-05-16": 1440,
       "2024-05-15": 1440,
       "2024-05-14": 1440,
       "2024-05-13": 1440,
@@ -580,8 +580,7 @@
       "2023-05-22": 1440,
       "2023-05-21": 1440,
       "2023-05-20": 1440,
-      "2023-05-19": 1440,
-      "2023-05-18": 1039
+      "2023-05-19": 1440
     }
   }
 ]
