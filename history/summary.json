@@ -4,19 +4,19 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "84.09%",
-    "uptimeWeek": "89.44%",
-    "uptimeMonth": "93.53%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "85.23%",
+    "uptimeWeek": "89.43%",
+    "uptimeMonth": "93.59%",
+    "uptimeYear": "99.47%",
     "time": 686,
-    "timeDay": 688,
-    "timeWeek": 689,
-    "timeMonth": 647,
+    "timeDay": 719,
+    "timeWeek": 637,
+    "timeMonth": 646,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2024-06-18": 212,
+      "2024-06-18": 213,
       "2024-06-17": 111,
       "2024-06-16": 118,
       "2024-06-15": 202,
@@ -38,7 +38,7 @@
       "2024-05-30": 133,
       "2024-05-29": 109,
       "2024-05-28": 54,
-      "2024-05-27": 108
+      "2024-05-27": 80
     }
   },
   {
@@ -46,19 +46,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "84.16%",
-    "uptimeWeek": "89.51%",
-    "uptimeMonth": "93.57%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "85.30%",
+    "uptimeWeek": "89.50%",
+    "uptimeMonth": "93.64%",
+    "uptimeYear": "99.47%",
     "time": 3848,
-    "timeDay": 4736,
-    "timeWeek": 4655,
-    "timeMonth": 4218,
+    "timeDay": 4811,
+    "timeWeek": 4657,
+    "timeMonth": 4223,
     "timeYear": 3939,
     "dailyMinutesDown": {
-      "2024-06-18": 210,
+      "2024-06-18": 211,
       "2024-06-17": 110,
       "2024-06-16": 118,
       "2024-06-15": 201,
@@ -80,7 +80,7 @@
       "2024-05-30": 133,
       "2024-05-29": 107,
       "2024-05-28": 54,
-      "2024-05-27": 108
+      "2024-05-27": 80
     }
   },
   {
@@ -88,15 +88,15 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "84.27%",
+    "status": "down",
+    "uptime": "99.66%",
+    "uptimeDay": "85.40%",
     "uptimeWeek": "89.60%",
-    "uptimeMonth": "93.62%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 651,
-    "timeDay": 845,
-    "timeWeek": 741,
+    "timeDay": 783,
+    "timeWeek": 745,
     "timeMonth": 657,
     "timeYear": 646,
     "dailyMinutesDown": {
@@ -122,7 +122,7 @@
       "2024-05-30": 131,
       "2024-05-29": 106,
       "2024-05-28": 53,
-      "2024-05-27": 127
+      "2024-05-27": 106
     }
   },
   {
@@ -183,7 +183,7 @@
     "timeMonth": 639,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-06-18": 1103,
+      "2024-06-18": 1201,
       "2024-06-17": 1440,
       "2024-06-16": 1440,
       "2024-06-15": 1440,
