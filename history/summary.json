@@ -4,11 +4,11 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.65%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "92.52%",
-    "uptimeMonth": "93.37%",
+    "uptimeDay": "93.21%",
+    "uptimeWeek": "92.51%",
+    "uptimeMonth": "93.42%",
     "uptimeYear": "99.45%",
     "time": 657,
     "timeDay": 591,
@@ -16,7 +16,7 @@
     "timeMonth": 647,
     "timeYear": 654,
     "dailyMinutesDown": {
-      "2024-06-30": 78,
+      "2024-06-30": 79,
       "2024-06-29": 118,
       "2024-06-28": 39,
       "2024-06-27": 207,
@@ -38,8 +38,7 @@
       "2024-06-11": 77,
       "2024-06-10": 91,
       "2024-06-09": 256,
-      "2024-06-08": 22,
-      "2024-06-07": 20
+      "2024-06-08": 22
     }
   },
   {
@@ -47,11 +46,11 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "93.32%",
-    "uptimeWeek": "90.91%",
-    "uptimeMonth": "93.15%",
+    "uptimeDay": "93.28%",
+    "uptimeWeek": "90.90%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 3956,
     "timeDay": 4641,
@@ -81,8 +80,7 @@
       "2024-06-11": 76,
       "2024-06-10": 90,
       "2024-06-09": 254,
-      "2024-06-08": 20,
-      "2024-06-07": 20
+      "2024-06-08": 20
     }
   },
   {
@@ -90,11 +88,11 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.66%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "92.63%",
-    "uptimeMonth": "93.59%",
+    "uptimeDay": "93.38%",
+    "uptimeWeek": "92.62%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 646,
     "timeDay": 592,
@@ -124,8 +122,7 @@
       "2024-06-11": 75,
       "2024-06-10": 90,
       "2024-06-09": 253,
-      "2024-06-08": 20,
-      "2024-06-07": 20
+      "2024-06-08": 20
     }
   },
   {
@@ -187,7 +184,7 @@
     "timeMonth": 649,
     "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-06-30": 925,
+      "2024-06-30": 957,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
