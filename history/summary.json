@@ -6,17 +6,17 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.66%",
-    "uptimeDay": "87.45%",
-    "uptimeWeek": "91.89%",
-    "uptimeMonth": "93.51%",
-    "uptimeYear": "99.46%",
+    "uptimeDay": "88.15%",
+    "uptimeWeek": "91.99%",
+    "uptimeMonth": "93.45%",
+    "uptimeYear": "99.45%",
     "time": 674,
-    "timeDay": 615,
-    "timeWeek": 652,
-    "timeMonth": 644,
-    "timeYear": 654,
+    "timeDay": 674,
+    "timeWeek": 660,
+    "timeMonth": 647,
+    "timeYear": 655,
     "dailyMinutesDown": {
-      "2024-07-08": 180,
+      "2024-07-08": 170,
       "2024-07-07": 79,
       "2024-07-06": 44,
       "2024-07-05": 148,
@@ -39,7 +39,7 @@
       "2024-06-18": 250,
       "2024-06-17": 111,
       "2024-06-16": 118,
-      "2024-06-15": 82
+      "2024-06-15": 118
     }
   },
   {
@@ -48,18 +48,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
     "status": "up",
-    "uptime": "99.65%",
-    "uptimeDay": "87.54%",
-    "uptimeWeek": "91.94%",
-    "uptimeMonth": "93.29%",
+    "uptime": "99.64%",
+    "uptimeDay": "88.23%",
+    "uptimeWeek": "92.04%",
+    "uptimeMonth": "93.23%",
     "uptimeYear": "99.44%",
     "time": 3968,
-    "timeDay": 4036,
-    "timeWeek": 4486,
-    "timeMonth": 4568,
-    "timeYear": 4072,
+    "timeDay": 3832,
+    "timeWeek": 4462,
+    "timeMonth": 4562,
+    "timeYear": 4071,
     "dailyMinutesDown": {
-      "2024-07-08": 178,
+      "2024-07-08": 168,
       "2024-07-07": 77,
       "2024-07-06": 44,
       "2024-07-05": 145,
@@ -82,7 +82,7 @@
       "2024-06-18": 248,
       "2024-06-17": 110,
       "2024-06-16": 118,
-      "2024-06-15": 82
+      "2024-06-15": 118
     }
   },
   {
@@ -92,17 +92,17 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "87.67%",
-    "uptimeWeek": "92.17%",
-    "uptimeMonth": "93.68%",
+    "uptimeDay": "88.34%",
+    "uptimeWeek": "92.26%",
+    "uptimeMonth": "93.67%",
     "uptimeYear": "99.47%",
     "time": 649,
-    "timeDay": 665,
-    "timeWeek": 674,
-    "timeMonth": 661,
+    "timeDay": 662,
+    "timeWeek": 681,
+    "timeMonth": 662,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-07-08": 178,
+      "2024-07-08": 168,
       "2024-07-07": 77,
       "2024-07-06": 29,
       "2024-07-05": 144,
@@ -125,7 +125,7 @@
       "2024-06-18": 248,
       "2024-06-17": 110,
       "2024-06-16": 116,
-      "2024-06-15": 114
+      "2024-06-15": 130
     }
   },
   {
@@ -140,9 +140,9 @@
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.88%",
     "time": 1310,
-    "timeDay": 1211,
-    "timeWeek": 1148,
-    "timeMonth": 899,
+    "timeDay": 862,
+    "timeWeek": 1166,
+    "timeMonth": 895,
     "timeYear": 1047,
     "dailyMinutesDown": {
       "2024-06-26": 345,
@@ -181,13 +181,14 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "9.52%",
-    "time": 1107,
-    "timeDay": 831,
-    "timeWeek": 734,
-    "timeMonth": 678,
-    "timeYear": 753,
+    "time": 1106,
+    "timeDay": 378,
+    "timeWeek": 702,
+    "timeMonth": 668,
+    "timeYear": 752,
     "dailyMinutesDown": {
-      "2024-07-08": 1373,
+      "2024-07-09": 32,
+      "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
       "2024-07-05": 1440,
@@ -520,8 +521,7 @@
       "2023-07-14": 1440,
       "2023-07-13": 1440,
       "2023-07-12": 1440,
-      "2023-07-11": 1440,
-      "2023-07-10": 1440
+      "2023-07-11": 1440
     }
   }
 ]
