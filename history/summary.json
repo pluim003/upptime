@@ -4,19 +4,19 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.54%",
+    "uptimeDay": "93.50%",
     "uptimeWeek": "93.83%",
-    "uptimeMonth": "94.37%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "99.54%",
     "time": 667,
     "timeDay": 608,
     "timeWeek": 597,
     "timeMonth": 637,
     "timeYear": 650,
     "dailyMinutesDown": {
-      "2024-08-02": 51,
+      "2024-08-02": 52,
       "2024-08-01": 41,
       "2024-07-31": 83,
       "2024-07-30": 109,
@@ -42,7 +42,7 @@
       "2024-07-10": 79,
       "2024-07-09": 139,
       "2024-07-08": 170,
-      "2024-07-07": 49
+      "2024-07-07": 20
     }
   },
   {
@@ -50,13 +50,13 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "93.60%",
+    "uptimeDay": "93.56%",
     "uptimeWeek": "93.88%",
-    "uptimeMonth": "94.35%",
+    "uptimeMonth": "94.42%",
     "uptimeYear": "99.53%",
-    "time": 4016,
+    "time": 4017,
     "timeDay": 4031,
     "timeWeek": 4666,
     "timeMonth": 4295,
@@ -88,8 +88,7 @@
       "2024-07-10": 78,
       "2024-07-09": 137,
       "2024-07-08": 168,
-      "2024-07-07": 77,
-      "2024-07-06": 29
+      "2024-07-07": 77
     }
   },
   {
@@ -97,12 +96,12 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "93.67%",
+    "status": "down",
+    "uptime": "99.72%",
+    "uptimeDay": "93.64%",
     "uptimeWeek": "94.09%",
-    "uptimeMonth": "94.32%",
-    "uptimeYear": "99.53%",
+    "uptimeMonth": "94.44%",
+    "uptimeYear": "99.54%",
     "time": 646,
     "timeDay": 572,
     "timeWeek": 618,
@@ -136,8 +135,7 @@
       "2024-07-09": 137,
       "2024-07-08": 168,
       "2024-07-07": 77,
-      "2024-07-06": 29,
-      "2024-07-05": 52
+      "2024-07-06": 29
     }
   },
   {
@@ -146,7 +144,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_grafana.ico",
     "slug": "my-grafana-dashboard",
     "status": "up",
-    "uptime": "98.56%",
+    "uptime": "98.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -187,7 +185,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "29.95%",
+    "uptime": "29.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -198,7 +196,7 @@
     "timeMonth": 646,
     "timeYear": 733,
     "dailyMinutesDown": {
-      "2024-08-02": 719,
+      "2024-08-02": 780,
       "2024-08-01": 1440,
       "2024-07-31": 1440,
       "2024-07-30": 1440,
