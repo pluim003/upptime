@@ -4,19 +4,19 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "82.29%",
-    "uptimeWeek": "91.64%",
-    "uptimeMonth": "94.02%",
+    "uptimeDay": "83.78%",
+    "uptimeWeek": "91.82%",
+    "uptimeMonth": "94.06%",
     "uptimeYear": "99.50%",
     "time": 658,
-    "timeDay": 779,
-    "timeWeek": 756,
-    "timeMonth": 676,
+    "timeDay": 809,
+    "timeWeek": 759,
+    "timeMonth": 675,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-08-27": 177,
+      "2024-08-27": 178,
       "2024-08-26": 111,
       "2024-08-25": 83,
       "2024-08-24": 39,
@@ -39,8 +39,7 @@
       "2024-08-07": 17,
       "2024-08-06": 97,
       "2024-08-05": 195,
-      "2024-08-04": 59,
-      "2024-08-03": 18
+      "2024-08-04": 59
     }
   },
   {
@@ -48,19 +47,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "82.39%",
-    "uptimeWeek": "91.85%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
-    "time": 4146,
-    "timeDay": 5164,
-    "timeWeek": 4662,
-    "timeMonth": 4632,
+    "uptimeDay": "83.88%",
+    "uptimeWeek": "92.03%",
+    "uptimeMonth": "93.84%",
+    "uptimeYear": "99.49%",
+    "time": 4147,
+    "timeDay": 5225,
+    "timeWeek": 4638,
+    "timeMonth": 4629,
     "timeYear": 4203,
     "dailyMinutesDown": {
-      "2024-08-27": 174,
+      "2024-08-27": 175,
       "2024-08-26": 111,
       "2024-08-25": 68,
       "2024-08-24": 39,
@@ -84,7 +83,7 @@
       "2024-08-06": 97,
       "2024-08-05": 194,
       "2024-08-04": 43,
-      "2024-08-03": 205
+      "2024-08-03": 186
     }
   },
   {
@@ -92,15 +91,15 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "83.56%",
-    "uptimeWeek": "92.38%",
-    "uptimeMonth": "93.80%",
-    "uptimeYear": "99.48%",
+    "uptimeDay": "85.04%",
+    "uptimeWeek": "92.55%",
+    "uptimeMonth": "93.87%",
+    "uptimeYear": "99.49%",
     "time": 647,
-    "timeDay": 549,
-    "timeWeek": 780,
+    "timeDay": 518,
+    "timeWeek": 784,
     "timeMonth": 656,
     "timeYear": 643,
     "dailyMinutesDown": {
@@ -129,7 +128,7 @@
       "2024-08-05": 194,
       "2024-08-04": 43,
       "2024-08-03": 205,
-      "2024-08-02": 71
+      "2024-08-02": 37
     }
   },
   {
@@ -188,7 +187,7 @@
     "timeMonth": 555,
     "timeYear": 719,
     "dailyMinutesDown": {
-      "2024-08-27": 874,
+      "2024-08-27": 1006,
       "2024-08-26": 1440,
       "2024-08-25": 1440,
       "2024-08-24": 1440,
