@@ -6,9 +6,9 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.22%",
-    "uptimeWeek": "91.10%",
-    "uptimeMonth": "93.82%",
+    "uptimeDay": "96.18%",
+    "uptimeWeek": "91.24%",
+    "uptimeMonth": "93.81%",
     "uptimeYear": "99.48%",
     "time": 659,
     "timeDay": 762,
@@ -16,7 +16,7 @@
     "timeMonth": 689,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2024-09-13": 69,
+      "2024-09-13": 55,
       "2024-09-12": 169,
       "2024-09-11": 185,
       "2024-09-10": 151,
@@ -40,7 +40,7 @@
       "2024-08-23": 41,
       "2024-08-22": 201,
       "2024-08-21": 153,
-      "2024-08-20": 19
+      "2024-08-20": 37
     }
   },
   {
@@ -50,9 +50,9 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "91.15%",
-    "uptimeMonth": "93.85%",
+    "uptimeDay": "96.20%",
+    "uptimeWeek": "91.29%",
+    "uptimeMonth": "93.84%",
     "uptimeYear": "99.49%",
     "time": 4170,
     "timeDay": 4365,
@@ -60,7 +60,7 @@
     "timeMonth": 4557,
     "timeYear": 4236,
     "dailyMinutesDown": {
-      "2024-09-13": 68,
+      "2024-09-13": 54,
       "2024-09-12": 167,
       "2024-09-11": 183,
       "2024-09-10": 151,
@@ -84,7 +84,7 @@
       "2024-08-23": 40,
       "2024-08-22": 198,
       "2024-08-21": 153,
-      "2024-08-20": 37
+      "2024-08-20": 55
     }
   },
   {
@@ -94,17 +94,17 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "95.32%",
-    "uptimeWeek": "91.23%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "99.49%",
+    "uptimeDay": "96.24%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "93.82%",
+    "uptimeYear": "99.48%",
     "time": 651,
     "timeDay": 852,
     "timeWeek": 720,
     "timeMonth": 702,
     "timeYear": 647,
     "dailyMinutesDown": {
-      "2024-09-13": 67,
+      "2024-09-13": 54,
       "2024-09-12": 166,
       "2024-09-11": 182,
       "2024-09-10": 148,
@@ -129,7 +129,7 @@
       "2024-08-22": 166,
       "2024-08-21": 153,
       "2024-08-20": 76,
-      "2024-08-19": 16
+      "2024-08-19": 60
     }
   },
   {
@@ -177,11 +177,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "up",
-    "uptime": "30.21%",
+    "uptime": "30.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "45.59%",
-    "uptimeYear": "13.48%",
+    "uptimeMonth": "45.75%",
+    "uptimeYear": "13.49%",
     "time": 832,
     "timeDay": 688,
     "timeWeek": 1001,
@@ -507,8 +507,7 @@
       "2023-09-19": 1440,
       "2023-09-18": 1440,
       "2023-09-17": 1440,
-      "2023-09-16": 1440,
-      "2023-09-15": 1440
+      "2023-09-16": 1440
     }
   }
 ]
