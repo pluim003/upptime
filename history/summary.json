@@ -4,19 +4,19 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "88.41%",
-    "uptimeWeek": "91.11%",
-    "uptimeMonth": "94.04%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "88.36%",
+    "uptimeWeek": "91.30%",
+    "uptimeMonth": "94.09%",
+    "uptimeYear": "99.51%",
     "time": 685,
     "timeDay": 687,
-    "timeWeek": 1129,
+    "timeWeek": 1140,
     "timeMonth": 829,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2024-10-25": 70,
+      "2024-10-25": 71,
       "2024-10-24": 173,
       "2024-10-23": 65,
       "2024-10-22": 88,
@@ -37,7 +37,7 @@
       "2024-10-06": 61,
       "2024-10-05": 43,
       "2024-10-04": 131,
-      "2024-10-03": 91
+      "2024-10-03": 68
     }
   },
   {
@@ -45,19 +45,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "88.51%",
-    "uptimeWeek": "91.17%",
-    "uptimeMonth": "93.92%",
-    "uptimeYear": "99.49%",
-    "time": 4246,
+    "uptimeDay": "88.46%",
+    "uptimeWeek": "91.36%",
+    "uptimeMonth": "93.95%",
+    "uptimeYear": "99.50%",
+    "time": 4247,
     "timeDay": 4361,
-    "timeWeek": 4670,
+    "timeWeek": 4701,
     "timeMonth": 4592,
     "timeYear": 4303,
     "dailyMinutesDown": {
-      "2024-10-25": 70,
+      "2024-10-25": 71,
       "2024-10-24": 172,
       "2024-10-23": 64,
       "2024-10-22": 87,
@@ -79,8 +79,7 @@
       "2024-10-05": 43,
       "2024-10-04": 129,
       "2024-10-03": 168,
-      "2024-10-02": 38,
-      "2024-10-01": 16
+      "2024-10-02": 38
     }
   },
   {
@@ -88,19 +87,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "88.63%",
-    "uptimeWeek": "91.25%",
-    "uptimeMonth": "93.84%",
+    "uptimeDay": "88.59%",
+    "uptimeWeek": "91.44%",
+    "uptimeMonth": "93.90%",
     "uptimeYear": "99.49%",
     "time": 672,
     "timeDay": 655,
-    "timeWeek": 632,
+    "timeWeek": 635,
     "timeMonth": 818,
     "timeYear": 671,
     "dailyMinutesDown": {
-      "2024-10-25": 68,
+      "2024-10-25": 69,
       "2024-10-24": 171,
       "2024-10-23": 64,
       "2024-10-22": 87,
@@ -123,7 +122,7 @@
       "2024-10-04": 128,
       "2024-10-03": 152,
       "2024-10-02": 38,
-      "2024-10-01": 103
+      "2024-10-01": 79
     }
   },
   {
@@ -183,7 +182,7 @@
     "timeMonth": 647,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-10-25": 676,
+      "2024-10-25": 816,
       "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
