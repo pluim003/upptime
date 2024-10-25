@@ -13,7 +13,7 @@
     "time": 684,
     "timeDay": 689,
     "timeWeek": 1113,
-    "timeMonth": 829,
+    "timeMonth": 827,
     "timeYear": 686,
     "dailyMinutesDown": {
       "2024-10-24": 173,
@@ -54,7 +54,7 @@
     "time": 4244,
     "timeDay": 4370,
     "timeWeek": 4728,
-    "timeMonth": 4608,
+    "timeMonth": 4599,
     "timeYear": 4304,
     "dailyMinutesDown": {
       "2024-10-24": 172,
@@ -171,7 +171,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "29.49%",
+    "uptime": "29.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "5.57%",
@@ -182,7 +182,8 @@
     "timeMonth": 647,
     "timeYear": 708,
     "dailyMinutesDown": {
-      "2024-10-24": 1391,
+      "2024-10-25": 38,
+      "2024-10-24": 1440,
       "2024-10-23": 1440,
       "2024-10-22": 1440,
       "2024-10-21": 1440,
@@ -495,8 +496,7 @@
       "2023-10-30": 1440,
       "2023-10-29": 1440,
       "2023-10-28": 1440,
-      "2023-10-27": 1440,
-      "2023-10-26": 1440
+      "2023-10-27": 1440
     }
   }
 ]
