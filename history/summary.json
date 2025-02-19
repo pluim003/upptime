@@ -7,12 +7,12 @@
     "status": "up",
     "uptime": "99.76%",
     "uptimeDay": "93.17%",
-    "uptimeWeek": "89.75%",
+    "uptimeWeek": "89.77%",
     "uptimeMonth": "93.56%",
     "uptimeYear": "99.46%",
     "time": 680,
-    "timeDay": 643,
-    "timeWeek": 688,
+    "timeDay": 601,
+    "timeWeek": 686,
     "timeMonth": 681,
     "timeYear": 681,
     "dailyMinutesDown": {
@@ -45,17 +45,17 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "93.23%",
-    "uptimeWeek": "89.97%",
-    "uptimeMonth": "93.59%",
-    "uptimeYear": "99.47%",
+    "uptimeDay": "94.26%",
+    "uptimeWeek": "90.13%",
+    "uptimeMonth": "93.57%",
+    "uptimeYear": "99.46%",
     "time": 4266,
-    "timeDay": 3730,
-    "timeWeek": 4167,
-    "timeMonth": 4190,
+    "timeDay": 3791,
+    "timeWeek": 4130,
+    "timeMonth": 4187,
     "timeYear": 4295,
     "dailyMinutesDown": {
-      "2025-02-18": 98,
+      "2025-02-18": 83,
       "2025-02-17": 166,
       "2025-02-16": 143,
       "2025-02-15": 214,
@@ -74,7 +74,7 @@
       "2025-02-02": 228,
       "2025-02-01": 71,
       "2025-01-31": 155,
-      "2025-01-30": 58
+      "2025-01-30": 81
     }
   },
   {
@@ -84,17 +84,17 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "93.30%",
-    "uptimeWeek": "90.06%",
-    "uptimeMonth": "93.65%",
+    "uptimeDay": "94.31%",
+    "uptimeWeek": "90.22%",
+    "uptimeMonth": "93.63%",
     "uptimeYear": "99.47%",
     "time": 656,
-    "timeDay": 625,
-    "timeWeek": 692,
+    "timeDay": 640,
+    "timeWeek": 688,
     "timeMonth": 657,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2025-02-18": 97,
+      "2025-02-18": 82,
       "2025-02-17": 164,
       "2025-02-16": 141,
       "2025-02-15": 213,
@@ -113,7 +113,7 @@
       "2025-02-02": 227,
       "2025-02-01": 71,
       "2025-01-31": 155,
-      "2025-01-30": 57
+      "2025-01-30": 79
     }
   },
   {
@@ -156,7 +156,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "25.20%",
+    "uptime": "25.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -167,7 +167,8 @@
     "timeMonth": 647,
     "timeYear": 642,
     "dailyMinutesDown": {
-      "2025-02-18": 1407,
+      "2025-02-19": 39,
+      "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
@@ -510,8 +511,7 @@
       "2024-02-24": 1440,
       "2024-02-23": 1440,
       "2024-02-22": 1440,
-      "2024-02-21": 1440,
-      "2024-02-20": 1440
+      "2024-02-21": 1440
     }
   }
 ]
