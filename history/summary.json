@@ -6,17 +6,17 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "91.82%",
-    "uptimeWeek": "88.28%",
-    "uptimeMonth": "92.51%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "92.66%",
+    "uptimeWeek": "88.40%",
+    "uptimeMonth": "92.48%",
+    "uptimeYear": "99.37%",
     "time": 679,
     "timeDay": 677,
     "timeWeek": 635,
     "timeMonth": 659,
     "timeYear": 676,
     "dailyMinutesDown": {
-      "2025-04-02": 117,
+      "2025-04-02": 105,
       "2025-04-01": 142,
       "2025-03-31": 165,
       "2025-03-30": 196,
@@ -34,7 +34,7 @@
       "2025-03-18": 342,
       "2025-03-17": 240,
       "2025-03-16": 131,
-      "2025-03-15": 251
+      "2025-03-15": 275
     }
   },
   {
@@ -44,9 +44,9 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "90.00%",
-    "uptimeWeek": "88.07%",
-    "uptimeMonth": "92.49%",
+    "uptimeDay": "90.83%",
+    "uptimeWeek": "88.19%",
+    "uptimeMonth": "92.46%",
     "uptimeYear": "99.37%",
     "time": 4302,
     "timeDay": 3762,
@@ -54,7 +54,7 @@
     "timeMonth": 4405,
     "timeYear": 4314,
     "dailyMinutesDown": {
-      "2025-04-02": 144,
+      "2025-04-02": 132,
       "2025-04-01": 142,
       "2025-03-31": 165,
       "2025-03-30": 194,
@@ -72,7 +72,7 @@
       "2025-03-18": 341,
       "2025-03-17": 239,
       "2025-03-16": 129,
-      "2025-03-15": 226
+      "2025-03-15": 249
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "down",
+    "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "87.34%",
-    "uptimeWeek": "83.20%",
-    "uptimeMonth": "92.49%",
+    "uptimeDay": "86.68%",
+    "uptimeWeek": "83.11%",
+    "uptimeMonth": "92.47%",
     "uptimeYear": "99.37%",
     "time": 658,
-    "timeDay": 596,
-    "timeWeek": 668,
+    "timeDay": 585,
+    "timeWeek": 667,
     "timeMonth": 652,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-04-02": 183,
+      "2025-04-02": 192,
       "2025-04-01": 233,
       "2025-03-31": 233,
       "2025-03-30": 319,
@@ -161,7 +161,7 @@
     "timeMonth": 0,
     "timeYear": 630,
     "dailyMinutesDown": {
-      "2025-04-02": 1365,
+      "2025-04-02": 1375,
       "2025-04-01": 1440,
       "2025-03-31": 1440,
       "2025-03-30": 1440,
