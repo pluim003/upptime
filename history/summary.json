@@ -6,17 +6,17 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "90.40%",
-    "uptimeWeek": "88.58%",
-    "uptimeMonth": "93.12%",
+    "uptimeDay": "88.98%",
+    "uptimeWeek": "88.65%",
+    "uptimeMonth": "93.19%",
     "uptimeYear": "99.43%",
     "time": 674,
-    "timeDay": 704,
-    "timeWeek": 688,
-    "timeMonth": 644,
+    "timeDay": 700,
+    "timeWeek": 687,
+    "timeMonth": 645,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-04-27": 21,
+      "2025-04-27": 41,
       "2025-04-26": 154,
       "2025-04-25": 85,
       "2025-04-24": 125,
@@ -34,7 +34,7 @@
       "2025-04-12": 119,
       "2025-04-11": 126,
       "2025-04-10": 118,
-      "2025-04-09": 181
+      "2025-04-09": 130
     }
   },
   {
@@ -44,17 +44,17 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "90.48%",
-    "uptimeWeek": "88.67%",
-    "uptimeMonth": "93.16%",
-    "uptimeYear": "99.43%",
+    "uptimeDay": "89.08%",
+    "uptimeWeek": "88.73%",
+    "uptimeMonth": "93.23%",
+    "uptimeYear": "99.44%",
     "time": 4329,
-    "timeDay": 4160,
-    "timeWeek": 4302,
-    "timeMonth": 4349,
-    "timeYear": 4325,
+    "timeDay": 4215,
+    "timeWeek": 4323,
+    "timeMonth": 4351,
+    "timeYear": 4326,
     "dailyMinutesDown": {
-      "2025-04-27": 21,
+      "2025-04-27": 41,
       "2025-04-26": 153,
       "2025-04-25": 85,
       "2025-04-24": 123,
@@ -72,7 +72,7 @@
       "2025-04-12": 118,
       "2025-04-11": 124,
       "2025-04-10": 118,
-      "2025-04-09": 180
+      "2025-04-09": 129
     }
   },
   {
@@ -82,17 +82,17 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.76%",
-    "uptimeDay": "89.15%",
-    "uptimeWeek": "85.60%",
-    "uptimeMonth": "92.99%",
+    "uptimeDay": "87.77%",
+    "uptimeWeek": "85.70%",
+    "uptimeMonth": "93.00%",
     "uptimeYear": "99.42%",
     "time": 658,
     "timeDay": 631,
     "timeWeek": 664,
-    "timeMonth": 652,
+    "timeMonth": 653,
     "timeYear": 659,
     "dailyMinutesDown": {
-      "2025-04-27": 20,
+      "2025-04-27": 40,
       "2025-04-26": 207,
       "2025-04-25": 125,
       "2025-04-24": 226,
@@ -106,7 +106,7 @@
       "2025-04-16": 210,
       "2025-04-15": 256,
       "2025-04-14": 342,
-      "2025-04-13": 78
+      "2025-04-13": 55
     }
   },
   {
@@ -159,7 +159,7 @@
     "timeMonth": 0,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-04-27": 317,
+      "2025-04-27": 404,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
