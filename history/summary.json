@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.79%",
     "uptimeDay": "87.41%",
-    "uptimeWeek": "89.32%",
+    "uptimeWeek": "89.79%",
     "uptimeMonth": "93.79%",
     "uptimeYear": "99.48%",
     "time": 674,
@@ -43,13 +43,13 @@
     "status": "up",
     "uptime": "99.78%",
     "uptimeDay": "87.50%",
-    "uptimeWeek": "89.23%",
+    "uptimeWeek": "89.70%",
     "uptimeMonth": "93.74%",
     "uptimeYear": "99.48%",
     "time": 4326,
     "timeDay": 4962,
     "timeWeek": 4263,
-    "timeMonth": 4415,
+    "timeMonth": 4420,
     "timeYear": 4329,
     "dailyMinutesDown": {
       "2025-05-07": 180,
@@ -76,18 +76,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "75.73%",
-    "uptimeWeek": "82.98%",
-    "uptimeMonth": "93.10%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "84.38%",
+    "uptimeWeek": "83.43%",
+    "uptimeMonth": "93.13%",
+    "uptimeYear": "99.43%",
     "time": 658,
-    "timeDay": 681,
-    "timeWeek": 666,
-    "timeMonth": 655,
+    "timeDay": 648,
+    "timeWeek": 667,
+    "timeMonth": 656,
     "timeYear": 659,
     "dailyMinutesDown": {
+      "2025-05-08": 1,
       "2025-05-07": 348,
       "2025-05-06": 182,
       "2025-05-05": 405,
@@ -101,7 +102,7 @@
       "2025-04-27": 203,
       "2025-04-26": 207,
       "2025-04-25": 125,
-      "2025-04-24": 109
+      "2025-04-24": 93
     }
   },
   {
@@ -143,7 +144,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "22.97%",
+    "uptime": "22.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -154,7 +155,8 @@
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-05-07": 1391,
+      "2025-05-08": 146,
+      "2025-05-07": 1440,
       "2025-05-06": 1440,
       "2025-05-05": 1440,
       "2025-05-04": 1440,
@@ -497,8 +499,7 @@
       "2024-05-12": 1440,
       "2024-05-11": 1440,
       "2024-05-10": 1440,
-      "2024-05-09": 1440,
-      "2024-05-08": 1440
+      "2024-05-09": 1440
     }
   }
 ]
