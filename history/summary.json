@@ -6,9 +6,9 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "89.91%",
-    "uptimeWeek": "92.43%",
-    "uptimeMonth": "94.00%",
+    "uptimeDay": "90.72%",
+    "uptimeWeek": "92.55%",
+    "uptimeMonth": "93.99%",
     "uptimeYear": "99.50%",
     "time": 673,
     "timeDay": 575,
@@ -16,7 +16,7 @@
     "timeMonth": 655,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-05-12": 111,
+      "2025-05-12": 99,
       "2025-05-11": 34,
       "2025-05-10": 86,
       "2025-05-09": 117,
@@ -35,7 +35,7 @@
       "2025-04-26": 154,
       "2025-04-25": 85,
       "2025-04-24": 125,
-      "2025-04-23": 102
+      "2025-04-23": 121
     }
   },
   {
@@ -45,17 +45,17 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "89.98%",
-    "uptimeWeek": "92.48%",
-    "uptimeMonth": "93.97%",
-    "uptimeYear": "99.50%",
+    "uptimeDay": "90.77%",
+    "uptimeWeek": "92.60%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "99.49%",
     "time": 4325,
     "timeDay": 4130,
     "timeWeek": 4266,
     "timeMonth": 4319,
     "timeYear": 4332,
     "dailyMinutesDown": {
-      "2025-05-12": 111,
+      "2025-05-12": 100,
       "2025-05-11": 33,
       "2025-05-10": 86,
       "2025-05-09": 117,
@@ -74,7 +74,7 @@
       "2025-04-26": 153,
       "2025-04-25": 85,
       "2025-04-24": 123,
-      "2025-04-23": 119
+      "2025-04-23": 149
     }
   },
   {
@@ -82,19 +82,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "87.91%",
-    "uptimeWeek": "87.86%",
-    "uptimeMonth": "92.90%",
+    "uptimeDay": "88.62%",
+    "uptimeWeek": "87.97%",
+    "uptimeMonth": "92.92%",
     "uptimeYear": "99.41%",
     "time": 658,
-    "timeDay": 694,
+    "timeDay": 693,
     "timeWeek": 643,
     "timeMonth": 658,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-05-12": 141,
+      "2025-05-12": 131,
       "2025-05-11": 33,
       "2025-05-10": 102,
       "2025-05-09": 116,
@@ -162,7 +162,7 @@
     "timeMonth": 0,
     "timeYear": 635,
     "dailyMinutesDown": {
-      "2025-05-12": 702,
+      "2025-05-12": 713,
       "2025-05-11": 1440,
       "2025-05-10": 1440,
       "2025-05-09": 1440,
