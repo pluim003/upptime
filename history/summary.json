@@ -4,11 +4,11 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.03%",
-    "uptimeWeek": "89.59%",
-    "uptimeMonth": "92.92%",
+    "uptimeDay": "91.98%",
+    "uptimeWeek": "89.58%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 678,
     "timeDay": 804,
@@ -16,7 +16,7 @@
     "timeMonth": 663,
     "timeYear": 679,
     "dailyMinutesDown": {
-      "2025-05-30": 44,
+      "2025-05-30": 45,
       "2025-05-29": 176,
       "2025-05-28": 73,
       "2025-05-27": 221,
@@ -38,7 +38,7 @@
       "2025-05-11": 34,
       "2025-05-10": 86,
       "2025-05-09": 117,
-      "2025-05-08": 66
+      "2025-05-08": 46
     }
   },
   {
@@ -46,11 +46,11 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "89.79%",
-    "uptimeMonth": "92.91%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "89.78%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 4347,
     "timeDay": 4585,
@@ -58,7 +58,7 @@
     "timeMonth": 4313,
     "timeYear": 4354,
     "dailyMinutesDown": {
-      "2025-05-30": 44,
+      "2025-05-30": 45,
       "2025-05-29": 176,
       "2025-05-28": 72,
       "2025-05-27": 218,
@@ -80,8 +80,7 @@
       "2025-05-11": 33,
       "2025-05-10": 86,
       "2025-05-09": 117,
-      "2025-05-08": 95,
-      "2025-05-07": 21
+      "2025-05-08": 95
     }
   },
   {
@@ -91,17 +90,17 @@
     "slug": "pierced-arrows",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "84.43%",
-    "uptimeWeek": "87.16%",
-    "uptimeMonth": "92.77%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "84.22%",
+    "uptimeWeek": "86.99%",
+    "uptimeMonth": "92.73%",
+    "uptimeYear": "99.39%",
     "time": 662,
-    "timeDay": 700,
+    "timeDay": 702,
     "timeWeek": 663,
     "timeMonth": 669,
     "timeYear": 664,
     "dailyMinutesDown": {
-      "2025-05-30": 91,
+      "2025-05-30": 107,
       "2025-05-29": 238,
       "2025-05-28": 71,
       "2025-05-27": 251,
@@ -171,7 +170,7 @@
     "timeMonth": 0,
     "timeYear": 632,
     "dailyMinutesDown": {
-      "2025-05-30": 566,
+      "2025-05-30": 582,
       "2025-05-29": 1440,
       "2025-05-28": 1440,
       "2025-05-27": 1440,
