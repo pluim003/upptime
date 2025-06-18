@@ -6,16 +6,17 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.88%",
-    "uptimeWeek": "92.02%",
-    "uptimeMonth": "92.30%",
+    "uptimeDay": "91.87%",
+    "uptimeWeek": "91.77%",
+    "uptimeMonth": "92.28%",
     "uptimeYear": "99.36%",
-    "time": 680,
-    "timeDay": 656,
-    "timeWeek": 758,
-    "timeMonth": 687,
-    "timeYear": 681,
+    "time": 679,
+    "timeDay": 610,
+    "timeWeek": 752,
+    "timeMonth": 686,
+    "timeYear": 680,
     "dailyMinutesDown": {
+      "2025-06-18": 26,
       "2025-06-17": 132,
       "2025-06-16": 74,
       "2025-06-15": 69,
@@ -38,8 +39,7 @@
       "2025-05-29": 176,
       "2025-05-28": 73,
       "2025-05-27": 221,
-      "2025-05-26": 92,
-      "2025-05-25": 16
+      "2025-05-26": 92
     }
   },
   {
@@ -49,16 +49,17 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "90.93%",
-    "uptimeWeek": "92.07%",
-    "uptimeMonth": "92.35%",
+    "uptimeDay": "91.92%",
+    "uptimeWeek": "91.82%",
+    "uptimeMonth": "92.32%",
     "uptimeYear": "99.36%",
-    "time": 4354,
-    "timeDay": 4284,
-    "timeWeek": 4384,
-    "timeMonth": 4328,
+    "time": 4353,
+    "timeDay": 4095,
+    "timeWeek": 4390,
+    "timeMonth": 4329,
     "timeYear": 4352,
     "dailyMinutesDown": {
+      "2025-06-18": 26,
       "2025-06-17": 130,
       "2025-06-16": 74,
       "2025-06-15": 69,
@@ -81,8 +82,7 @@
       "2025-05-29": 176,
       "2025-05-28": 72,
       "2025-05-27": 218,
-      "2025-05-26": 92,
-      "2025-05-25": 15
+      "2025-05-26": 92
     }
   },
   {
@@ -92,16 +92,17 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "88.31%",
-    "uptimeWeek": "86.25%",
-    "uptimeMonth": "91.69%",
+    "uptimeDay": "89.30%",
+    "uptimeWeek": "86.46%",
+    "uptimeMonth": "91.68%",
     "uptimeYear": "99.31%",
-    "time": 666,
-    "timeDay": 596,
-    "timeWeek": 711,
-    "timeMonth": 681,
+    "time": 665,
+    "timeDay": 579,
+    "timeWeek": 706,
+    "timeMonth": 680,
     "timeYear": 664,
     "dailyMinutesDown": {
+      "2025-06-18": 25,
       "2025-06-17": 168,
       "2025-06-16": 136,
       "2025-06-15": 149,
@@ -118,8 +119,7 @@
       "2025-06-04": 239,
       "2025-06-03": 178,
       "2025-06-02": 197,
-      "2025-06-01": 111,
-      "2025-05-31": 23
+      "2025-06-01": 111
     }
   },
   {
@@ -160,7 +160,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "21.95%",
+    "uptime": "21.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -171,7 +171,7 @@
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-06-18": 46,
+      "2025-06-18": 379,
       "2025-06-17": 1440,
       "2025-06-16": 1440,
       "2025-06-15": 1440,
