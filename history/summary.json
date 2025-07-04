@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "95.31%",
-    "uptimeWeek": "89.39%",
+    "uptimeWeek": "89.85%",
     "uptimeMonth": "91.62%",
     "uptimeYear": "99.30%",
     "time": 684,
@@ -52,7 +52,7 @@
     "status": "up",
     "uptime": "99.73%",
     "uptimeDay": "95.34%",
-    "uptimeWeek": "89.45%",
+    "uptimeWeek": "89.91%",
     "uptimeMonth": "91.66%",
     "uptimeYear": "99.31%",
     "time": 4335,
@@ -96,17 +96,17 @@
     "slug": "pierced-arrows",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "92.15%",
-    "uptimeWeek": "86.63%",
-    "uptimeMonth": "91.69%",
-    "uptimeYear": "99.31%",
+    "uptimeDay": "92.86%",
+    "uptimeWeek": "87.19%",
+    "uptimeMonth": "91.65%",
+    "uptimeYear": "99.30%",
     "time": 665,
     "timeDay": 714,
     "timeWeek": 649,
     "timeMonth": 679,
     "timeYear": 666,
     "dailyMinutesDown": {
-      "2025-07-03": 114,
+      "2025-07-03": 104,
       "2025-07-02": 136,
       "2025-07-01": 156,
       "2025-06-30": 82,
@@ -124,7 +124,7 @@
       "2025-06-18": 105,
       "2025-06-17": 168,
       "2025-06-16": 136,
-      "2025-06-15": 122
+      "2025-06-15": 149
     }
   },
   {
@@ -176,7 +176,7 @@
     "timeMonth": 0,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-07-04": 0,
+      "2025-07-04": 47,
       "2025-07-03": 1440,
       "2025-07-02": 1440,
       "2025-07-01": 1440,
