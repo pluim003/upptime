@@ -5,10 +5,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
     "status": "up",
-    "uptime": "99.75%",
-    "uptimeDay": "96.60%",
-    "uptimeWeek": "94.54%",
-    "uptimeMonth": "92.09%",
+    "uptime": "99.74%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "92.07%",
     "uptimeYear": "99.34%",
     "time": 685,
     "timeDay": 669,
@@ -16,7 +16,6 @@
     "timeMonth": 732,
     "timeYear": 685,
     "dailyMinutesDown": {
-      "2025-07-08": 11,
       "2025-07-07": 103,
       "2025-07-06": 131,
       "2025-07-05": 47,
@@ -43,7 +42,7 @@
       "2025-06-14": 107,
       "2025-06-13": 75,
       "2025-06-12": 204,
-      "2025-06-11": 17
+      "2025-06-11": 40
     }
   },
   {
@@ -53,9 +52,9 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.75%",
-    "uptimeDay": "96.63%",
-    "uptimeWeek": "94.57%",
-    "uptimeMonth": "92.14%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "94.68%",
+    "uptimeMonth": "92.11%",
     "uptimeYear": "99.34%",
     "time": 4330,
     "timeDay": 4660,
@@ -63,7 +62,6 @@
     "timeMonth": 4203,
     "timeYear": 4326,
     "dailyMinutesDown": {
-      "2025-07-08": 11,
       "2025-07-07": 103,
       "2025-07-06": 131,
       "2025-07-05": 46,
@@ -90,7 +88,7 @@
       "2025-06-14": 107,
       "2025-06-13": 74,
       "2025-06-12": 204,
-      "2025-06-11": 17
+      "2025-06-11": 40
     }
   },
   {
@@ -98,19 +96,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "73.10%",
-    "uptimeWeek": "81.71%",
-    "uptimeMonth": "91.31%",
+    "uptimeDay": "73.03%",
+    "uptimeWeek": "81.70%",
+    "uptimeMonth": "91.38%",
     "uptimeYear": "99.28%",
     "time": 667,
-    "timeDay": 775,
-    "timeWeek": 717,
+    "timeDay": 774,
+    "timeWeek": 718,
     "timeMonth": 697,
     "timeYear": 667,
     "dailyMinutesDown": {
-      "2025-07-08": 215,
+      "2025-07-08": 216,
       "2025-07-07": 309,
       "2025-07-06": 383,
       "2025-07-05": 236,
@@ -126,7 +124,7 @@
       "2025-06-25": 77,
       "2025-06-24": 134,
       "2025-06-23": 488,
-      "2025-06-22": 65
+      "2025-06-22": 34
     }
   },
   {
@@ -179,7 +177,7 @@
     "timeMonth": 0,
     "timeYear": 625,
     "dailyMinutesDown": {
-      "2025-07-08": 597,
+      "2025-07-08": 624,
       "2025-07-07": 1440,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
