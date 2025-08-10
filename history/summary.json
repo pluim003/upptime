@@ -170,7 +170,7 @@
     "slug": "my-grafana-dashboard",
     "status": "up",
     "uptime": "99.11%",
-    "uptimeDay": "69.34%",
+    "uptimeDay": "74.64%",
     "uptimeWeek": "85.36%",
     "uptimeMonth": "96.17%",
     "uptimeYear": "99.38%",
@@ -208,7 +208,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "20.76%",
+    "uptime": "20.75%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -219,7 +219,8 @@
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-08-09": 1419,
+      "2025-08-10": 55,
+      "2025-08-09": 1440,
       "2025-08-08": 1440,
       "2025-08-07": 1440,
       "2025-08-06": 1440,
@@ -562,8 +563,7 @@
       "2024-08-14": 1440,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
-      "2024-08-11": 1440,
-      "2024-08-10": 1440
+      "2024-08-11": 1440
     }
   }
 ]
