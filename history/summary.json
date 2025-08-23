@@ -72,19 +72,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "97.86%",
+    "uptimeDay": "97.82%",
     "uptimeWeek": "95.81%",
     "uptimeMonth": "88.74%",
     "uptimeYear": "98.72%",
-    "time": 4312,
-    "timeDay": 5850,
-    "timeWeek": 4096,
-    "timeMonth": 4026,
+    "time": 4313,
+    "timeDay": 5420,
+    "timeWeek": 4114,
+    "timeMonth": 4032,
     "timeYear": 4303,
     "dailyMinutesDown": {
-      "2025-08-23": 31,
+      "2025-08-23": 32,
       "2025-08-22": 42,
       "2025-08-21": 105,
       "2025-08-18": 141,
@@ -134,7 +134,7 @@
       "2025-06-30": 46,
       "2025-06-29": 191,
       "2025-06-28": 321,
-      "2025-06-27": 64
+      "2025-06-27": 42
     }
   },
   {
@@ -142,19 +142,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.75%",
-    "uptimeDay": "94.03%",
-    "uptimeWeek": "87.26%",
-    "uptimeMonth": "91.90%",
-    "uptimeYear": "99.32%",
+    "uptimeDay": "93.97%",
+    "uptimeWeek": "87.54%",
+    "uptimeMonth": "91.95%",
+    "uptimeYear": "99.33%",
     "time": 677,
-    "timeDay": 670,
-    "timeWeek": 689,
-    "timeMonth": 714,
+    "timeDay": 695,
+    "timeWeek": 692,
+    "timeMonth": 715,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-08-23": 31,
+      "2025-08-23": 32,
       "2025-08-22": 98,
       "2025-08-21": 170,
       "2025-08-20": 317,
@@ -177,7 +177,7 @@
       "2025-08-03": 269,
       "2025-08-02": 118,
       "2025-08-01": 86,
-      "2025-07-31": 105
+      "2025-07-31": 84
     }
   },
   {
@@ -236,7 +236,7 @@
     "timeMonth": 0,
     "timeYear": 633,
     "dailyMinutesDown": {
-      "2025-08-23": 373,
+      "2025-08-23": 403,
       "2025-08-22": 1440,
       "2025-08-21": 1440,
       "2025-08-20": 1440,
