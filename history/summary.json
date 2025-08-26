@@ -4,10 +4,10 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "95.51%",
-    "uptimeWeek": "97.12%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "97.11%",
     "uptimeMonth": "96.70%",
     "uptimeYear": "99.43%",
     "time": 691,
@@ -16,7 +16,7 @@
     "timeMonth": 684,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-08-26": 30,
+      "2025-08-26": 31,
       "2025-08-25": 35,
       "2025-08-24": 31,
       "2025-08-23": 46,
@@ -66,8 +66,7 @@
       "2025-07-02": 110,
       "2025-07-01": 91,
       "2025-06-30": 47,
-      "2025-06-29": 191,
-      "2025-06-28": 23
+      "2025-06-29": 191
     }
   },
   {
@@ -75,19 +74,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
-    "uptime": "99.53%",
-    "uptimeDay": "95.54%",
+    "status": "down",
+    "uptime": "99.54%",
+    "uptimeDay": "95.49%",
     "uptimeWeek": "97.13%",
     "uptimeMonth": "88.71%",
-    "uptimeYear": "98.73%",
+    "uptimeYear": "98.74%",
     "time": 4312,
     "timeDay": 3977,
     "timeWeek": 4200,
     "timeMonth": 4094,
     "timeYear": 4301,
     "dailyMinutesDown": {
-      "2025-08-26": 30,
+      "2025-08-26": 31,
       "2025-08-25": 34,
       "2025-08-24": 31,
       "2025-08-23": 46,
@@ -139,7 +138,7 @@
       "2025-07-01": 91,
       "2025-06-30": 46,
       "2025-06-29": 191,
-      "2025-06-28": 179
+      "2025-06-28": 152
     }
   },
   {
@@ -150,16 +149,16 @@
     "status": "down",
     "uptime": "99.76%",
     "uptimeDay": "87.82%",
-    "uptimeWeek": "89.65%",
-    "uptimeMonth": "92.15%",
-    "uptimeYear": "99.35%",
+    "uptimeWeek": "89.51%",
+    "uptimeMonth": "92.12%",
+    "uptimeYear": "99.34%",
     "time": 678,
     "timeDay": 811,
-    "timeWeek": 713,
+    "timeWeek": 714,
     "timeMonth": 722,
     "timeYear": 677,
     "dailyMinutesDown": {
-      "2025-08-26": 53,
+      "2025-08-26": 67,
       "2025-08-25": 152,
       "2025-08-24": 92,
       "2025-08-23": 95,
@@ -241,7 +240,7 @@
     "timeMonth": 0,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2025-08-26": 684,
+      "2025-08-26": 698,
       "2025-08-25": 1440,
       "2025-08-24": 1440,
       "2025-08-23": 1440,
