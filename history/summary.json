@@ -6,9 +6,9 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "96.98%",
-    "uptimeWeek": "97.22%",
-    "uptimeMonth": "97.00%",
+    "uptimeDay": "97.71%",
+    "uptimeWeek": "97.32%",
+    "uptimeMonth": "97.02%",
     "uptimeYear": "99.44%",
     "time": 690,
     "timeDay": 880,
@@ -16,7 +16,7 @@
     "timeMonth": 689,
     "timeYear": 691,
     "dailyMinutesDown": {
-      "2025-08-29": 43,
+      "2025-08-29": 33,
       "2025-08-27": 95,
       "2025-08-26": 30,
       "2025-08-25": 35,
@@ -68,7 +68,7 @@
       "2025-07-02": 110,
       "2025-07-01": 91,
       "2025-06-30": 47,
-      "2025-06-29": 16
+      "2025-06-29": 40
     }
   },
   {
@@ -78,9 +78,9 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.54%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "97.24%",
-    "uptimeMonth": "89.00%",
+    "uptimeDay": "97.72%",
+    "uptimeWeek": "97.34%",
+    "uptimeMonth": "89.03%",
     "uptimeYear": "98.73%",
     "time": 4303,
     "timeDay": 4145,
@@ -88,7 +88,7 @@
     "timeMonth": 4178,
     "timeYear": 4302,
     "dailyMinutesDown": {
-      "2025-08-29": 43,
+      "2025-08-29": 33,
       "2025-08-27": 95,
       "2025-08-26": 30,
       "2025-08-25": 34,
@@ -142,7 +142,7 @@
       "2025-07-01": 91,
       "2025-06-30": 46,
       "2025-06-29": 191,
-      "2025-06-28": 44
+      "2025-06-28": 67
     }
   },
   {
@@ -150,19 +150,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "94.65%",
-    "uptimeWeek": "91.22%",
-    "uptimeMonth": "92.38%",
+    "uptimeDay": "95.29%",
+    "uptimeWeek": "91.31%",
+    "uptimeMonth": "92.41%",
     "uptimeYear": "99.37%",
     "time": 680,
-    "timeDay": 692,
-    "timeWeek": 779,
-    "timeMonth": 724,
+    "timeDay": 716,
+    "timeWeek": 782,
+    "timeMonth": 725,
     "timeYear": 678,
     "dailyMinutesDown": {
-      "2025-08-29": 77,
+      "2025-08-29": 68,
       "2025-08-28": 158,
       "2025-08-27": 125,
       "2025-08-26": 168,
@@ -245,7 +245,7 @@
     "timeMonth": 0,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2025-08-29": 890,
+      "2025-08-29": 939,
       "2025-08-28": 1440,
       "2025-08-27": 1440,
       "2025-08-26": 1440,
