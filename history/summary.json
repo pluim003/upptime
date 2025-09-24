@@ -79,18 +79,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.41%",
     "uptimeMonth": "96.68%",
-    "uptimeYear": "98.67%",
-    "time": 4292,
-    "timeDay": 3800,
-    "timeWeek": 4016,
-    "timeMonth": 4390,
-    "timeYear": 4291,
+    "uptimeYear": "98.68%",
+    "time": 4296,
+    "timeDay": 9398,
+    "timeWeek": 5014,
+    "timeMonth": 4500,
+    "timeYear": 4294,
     "dailyMinutesDown": {
+      "2025-09-24": 0,
       "2025-09-22": 25,
       "2025-09-19": 33,
       "2025-09-16": 92,
@@ -151,8 +152,7 @@
       "2025-07-13": 100,
       "2025-07-12": 33,
       "2025-07-11": 26,
-      "2025-07-10": 23,
-      "2025-07-09": 20
+      "2025-07-10": 23
     }
   },
   {
@@ -160,19 +160,20 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "96.78%",
-    "uptimeWeek": "93.73%",
-    "uptimeMonth": "92.25%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "93.84%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "99.36%",
     "time": 684,
-    "timeDay": 658,
-    "timeWeek": 721,
-    "timeMonth": 758,
+    "timeDay": 698,
+    "timeWeek": 722,
+    "timeMonth": 759,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-09-23": 46,
+      "2025-09-24": 1,
+      "2025-09-23": 34,
       "2025-09-22": 114,
       "2025-09-21": 101,
       "2025-09-20": 117,
@@ -255,7 +256,8 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-09-23": 1402,
+      "2025-09-24": 236,
+      "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
       "2025-09-20": 1440,
@@ -618,8 +620,7 @@
       "2024-09-28": 1440,
       "2024-09-27": 1440,
       "2024-09-26": 1440,
-      "2024-09-25": 1440,
-      "2024-09-24": 1440
+      "2024-09-25": 1440
     }
   }
 ]
