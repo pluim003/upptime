@@ -6,17 +6,16 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.65%",
-    "uptimeMonth": "96.72%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "96.74%",
+    "uptimeYear": "99.37%",
     "time": 692,
     "timeDay": 713,
     "timeWeek": 651,
     "timeMonth": 707,
     "timeYear": 688,
     "dailyMinutesDown": {
-      "2025-09-24": 10,
       "2025-09-22": 26,
       "2025-09-16": 93,
       "2025-09-15": 241,
@@ -72,7 +71,7 @@
       "2025-07-16": 32,
       "2025-07-15": 57,
       "2025-07-14": 20,
-      "2025-07-13": 17
+      "2025-07-13": 37
     }
   },
   {
@@ -161,19 +160,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "92.92%",
-    "uptimeWeek": "93.15%",
-    "uptimeMonth": "92.65%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "92.85%",
+    "uptimeWeek": "93.14%",
+    "uptimeMonth": "92.74%",
+    "uptimeYear": "99.40%",
     "time": 683,
-    "timeDay": 752,
-    "timeWeek": 728,
+    "timeDay": 744,
+    "timeWeek": 727,
     "timeMonth": 758,
     "timeYear": 683,
     "dailyMinutesDown": {
-      "2025-09-24": 101,
+      "2025-09-24": 102,
       "2025-09-23": 34,
       "2025-09-22": 114,
       "2025-09-21": 101,
@@ -196,7 +195,7 @@
       "2025-09-04": 164,
       "2025-09-03": 128,
       "2025-09-02": 200,
-      "2025-09-01": 165
+      "2025-09-01": 121
     }
   },
   {
@@ -256,7 +255,7 @@
     "timeMonth": 0,
     "timeYear": 605,
     "dailyMinutesDown": {
-      "2025-09-24": 721,
+      "2025-09-24": 807,
       "2025-09-23": 1440,
       "2025-09-22": 1440,
       "2025-09-21": 1440,
