@@ -6,17 +6,17 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.06%",
-    "uptimeWeek": "99.23%",
-    "uptimeMonth": "97.01%",
-    "uptimeYear": "99.38%",
+    "uptimeDay": "98.77%",
+    "uptimeWeek": "99.34%",
+    "uptimeMonth": "97.04%",
+    "uptimeYear": "99.37%",
     "time": 692,
     "timeDay": 520,
     "timeWeek": 657,
     "timeMonth": 710,
     "timeYear": 686,
     "dailyMinutesDown": {
-      "2025-09-27": 28,
+      "2025-09-27": 18,
       "2025-09-26": 24,
       "2025-09-22": 26,
       "2025-09-16": 93,
@@ -71,7 +71,8 @@
       "2025-07-18": 141,
       "2025-07-17": 83,
       "2025-07-16": 32,
-      "2025-07-15": 57
+      "2025-07-15": 57,
+      "2025-07-14": 20
     }
   },
   {
@@ -81,17 +82,17 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.53%",
-    "uptimeDay": "98.08%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "96.89%",
-    "uptimeYear": "98.68%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "96.92%",
+    "uptimeYear": "98.67%",
     "time": 4290,
     "timeDay": 3520,
     "timeWeek": 4819,
     "timeMonth": 4465,
     "timeYear": 4286,
     "dailyMinutesDown": {
-      "2025-09-27": 28,
+      "2025-09-27": 18,
       "2025-09-26": 23,
       "2025-09-24": 26,
       "2025-09-22": 25,
@@ -151,7 +152,8 @@
       "2025-07-16": 32,
       "2025-07-15": 57,
       "2025-07-14": 20,
-      "2025-07-13": 100
+      "2025-07-13": 100,
+      "2025-07-12": 33
     }
   },
   {
@@ -159,19 +161,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
-    "uptime": "99.78%",
-    "uptimeDay": "89.88%",
+    "status": "down",
+    "uptime": "99.79%",
+    "uptimeDay": "92.02%",
     "uptimeWeek": "91.21%",
-    "uptimeMonth": "92.72%",
-    "uptimeYear": "99.39%",
+    "uptimeMonth": "92.79%",
+    "uptimeYear": "99.40%",
     "time": 685,
-    "timeDay": 748,
-    "timeWeek": 748,
+    "timeDay": 778,
+    "timeWeek": 751,
     "timeMonth": 757,
     "timeYear": 684,
     "dailyMinutesDown": {
-      "2025-09-27": 97,
+      "2025-09-27": 98,
       "2025-09-26": 127,
       "2025-09-25": 187,
       "2025-09-24": 217,
@@ -194,7 +196,7 @@
       "2025-09-07": 101,
       "2025-09-06": 128,
       "2025-09-05": 76,
-      "2025-09-04": 95
+      "2025-09-04": 68
     }
   },
   {
@@ -254,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2025-09-27": 1014,
+      "2025-09-27": 1113,
       "2025-09-26": 1440,
       "2025-09-25": 1440,
       "2025-09-24": 1440,
