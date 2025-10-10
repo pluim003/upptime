@@ -4,10 +4,10 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "98.91%",
-    "uptimeWeek": "99.68%",
+    "uptimeDay": "98.86%",
+    "uptimeWeek": "99.67%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "99.38%",
     "time": 685,
@@ -16,6 +16,7 @@
     "timeMonth": 690,
     "timeYear": 685,
     "dailyMinutesDown": {
+      "2025-10-10": 1,
       "2025-10-09": 16,
       "2025-10-05": 17,
       "2025-09-27": 18,
@@ -73,7 +74,7 @@
       "2025-07-18": 141,
       "2025-07-17": 83,
       "2025-07-16": 32,
-      "2025-07-15": 37
+      "2025-07-15": 21
     }
   },
   {
@@ -81,9 +82,9 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.92%",
+    "uptimeDay": "98.88%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "98.47%",
     "uptimeYear": "98.69%",
@@ -93,6 +94,7 @@
     "timeMonth": 4845,
     "timeYear": 4281,
     "dailyMinutesDown": {
+      "2025-10-10": 1,
       "2025-10-09": 16,
       "2025-10-05": 17,
       "2025-09-27": 18,
@@ -155,7 +157,7 @@
       "2025-07-16": 32,
       "2025-07-15": 57,
       "2025-07-14": 20,
-      "2025-07-13": 37
+      "2025-07-13": 17
     }
   },
   {
@@ -163,19 +165,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "82.73%",
-    "uptimeWeek": "90.59%",
-    "uptimeMonth": "92.94%",
+    "uptimeDay": "84.54%",
+    "uptimeWeek": "90.70%",
+    "uptimeMonth": "92.96%",
     "uptimeYear": "99.41%",
     "time": 687,
-    "timeDay": 728,
+    "timeDay": 723,
     "timeWeek": 746,
     "timeMonth": 740,
     "timeYear": 682,
     "dailyMinutesDown": {
-      "2025-10-10": 180,
+      "2025-10-10": 169,
       "2025-10-09": 153,
       "2025-10-08": 93,
       "2025-10-07": 142,
@@ -258,7 +260,7 @@
     "timeMonth": 0,
     "timeYear": 590,
     "dailyMinutesDown": {
-      "2025-10-10": 829,
+      "2025-10-10": 867,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
