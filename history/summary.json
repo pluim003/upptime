@@ -6,9 +6,9 @@
     "slug": "dick-pluim-com",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.30%",
-    "uptimeWeek": "99.29%",
-    "uptimeMonth": "98.41%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "98.43%",
     "uptimeYear": "99.38%",
     "time": 679,
     "timeDay": 763,
@@ -16,7 +16,6 @@
     "timeMonth": 721,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-11-21": 10,
       "2025-11-17": 46,
       "2025-11-15": 15,
       "2025-11-13": 53,
@@ -77,7 +76,7 @@
       "2025-08-07": 84,
       "2025-08-06": 44,
       "2025-08-05": 21,
-      "2025-08-02": 24
+      "2025-08-02": 60
     }
   },
   {
@@ -87,9 +86,9 @@
     "slug": "kcg",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.31%",
-    "uptimeWeek": "99.30%",
-    "uptimeMonth": "98.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "98.40%",
     "uptimeYear": "98.69%",
     "time": 4300,
     "timeDay": 5329,
@@ -97,7 +96,6 @@
     "timeMonth": 4992,
     "timeYear": 4310,
     "dailyMinutesDown": {
-      "2025-11-21": 10,
       "2025-11-17": 46,
       "2025-11-15": 15,
       "2025-11-13": 52,
@@ -164,7 +162,7 @@
       "2025-08-05": 20,
       "2025-08-02": 60,
       "2025-08-01": 19,
-      "2025-07-31": 18
+      "2025-07-31": 38
     }
   },
   {
@@ -172,19 +170,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "93.90%",
-    "uptimeWeek": "94.49%",
-    "uptimeMonth": "92.76%",
+    "uptimeDay": "94.64%",
+    "uptimeWeek": "94.58%",
+    "uptimeMonth": "92.78%",
     "uptimeYear": "99.40%",
     "time": 688,
     "timeDay": 654,
-    "timeWeek": 749,
+    "timeWeek": 748,
     "timeMonth": 720,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-11-21": 44,
+      "2025-11-21": 35,
       "2025-11-20": 45,
       "2025-11-19": 94,
       "2025-11-18": 21,
@@ -268,7 +266,7 @@
     "timeMonth": 0,
     "timeYear": 616,
     "dailyMinutesDown": {
-      "2025-11-21": 1076,
+      "2025-11-21": 1160,
       "2025-11-20": 1440,
       "2025-11-19": 1440,
       "2025-11-18": 1440,
