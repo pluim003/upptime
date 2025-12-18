@@ -4,18 +4,19 @@
     "url": "https://dickpluim.com",
     "icon": "https://icons.duckduckgo.com/ip3/dickpluim.com.ico",
     "slug": "dick-pluim-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "94.14%",
+    "uptimeDay": "99.95%",
     "uptimeWeek": "98.44%",
     "uptimeMonth": "98.69%",
     "uptimeYear": "99.37%",
     "time": 681,
-    "timeDay": 587,
+    "timeDay": 746,
     "timeWeek": 679,
     "timeMonth": 741,
     "timeYear": 682,
     "dailyMinutesDown": {
+      "2025-12-18": 1,
       "2025-12-17": 128,
       "2025-12-16": 2,
       "2025-12-14": 27,
@@ -79,8 +80,7 @@
       "2025-08-22": 43,
       "2025-08-21": 106,
       "2025-08-18": 141,
-      "2025-08-17": 84,
-      "2025-08-16": 21
+      "2025-08-17": 84
     }
   },
   {
@@ -88,18 +88,19 @@
     "url": "https://kunstrijclubgroningen.nl",
     "icon": "https://icons.duckduckgo.com/ip3/kunstrijclubgroningen.nl.ico",
     "slug": "kcg",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "94.14%",
-    "uptimeWeek": "98.45%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "98.44%",
     "uptimeMonth": "98.61%",
     "uptimeYear": "99.37%",
     "time": 4323,
-    "timeDay": 6350,
+    "timeDay": 6354,
     "timeWeek": 4974,
     "timeMonth": 5084,
-    "timeYear": 4334,
+    "timeYear": 4335,
     "dailyMinutesDown": {
+      "2025-12-18": 1,
       "2025-12-17": 128,
       "2025-12-16": 2,
       "2025-12-14": 27,
@@ -165,7 +166,7 @@
       "2025-08-23": 46,
       "2025-08-22": 42,
       "2025-08-21": 105,
-      "2025-08-18": 141
+      "2025-08-18": 116
     }
   },
   {
@@ -173,18 +174,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.80%",
-    "uptimeDay": "92.07%",
-    "uptimeWeek": "92.71%",
-    "uptimeMonth": "92.69%",
+    "uptimeDay": "97.87%",
+    "uptimeWeek": "94.22%",
+    "uptimeMonth": "92.73%",
     "uptimeYear": "99.39%",
     "time": 698,
-    "timeDay": 833,
-    "timeWeek": 797,
-    "timeMonth": 756,
+    "timeDay": 778,
+    "timeWeek": 801,
+    "timeMonth": 757,
     "timeYear": 698,
     "dailyMinutesDown": {
+      "2025-12-18": 1,
       "2025-12-17": 158,
       "2025-12-16": 77,
       "2025-12-15": 133,
@@ -208,7 +210,7 @@
       "2025-11-26": 175,
       "2025-11-25": 111,
       "2025-11-24": 109,
-      "2025-11-23": 59
+      "2025-11-23": 38
     }
   },
   {
@@ -261,7 +263,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_upptime_test.ico",
     "slug": "upptime-test-site",
     "status": "down",
-    "uptime": "18.32%",
+    "uptime": "18.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -272,7 +274,7 @@
     "timeMonth": 0,
     "timeYear": 629,
     "dailyMinutesDown": {
-      "2025-12-18": 44,
+      "2025-12-18": 802,
       "2025-12-17": 1440,
       "2025-12-16": 1440,
       "2025-12-15": 1440,
