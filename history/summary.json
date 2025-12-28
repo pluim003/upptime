@@ -180,19 +180,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "90.85%",
-    "uptimeWeek": "89.98%",
-    "uptimeMonth": "92.20%",
-    "uptimeYear": "99.35%",
+    "uptimeDay": "90.80%",
+    "uptimeWeek": "89.97%",
+    "uptimeMonth": "92.27%",
+    "uptimeYear": "99.36%",
     "time": 701,
     "timeDay": 771,
-    "timeWeek": 787,
+    "timeWeek": 785,
     "timeMonth": 767,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-12-28": 132,
+      "2025-12-28": 133,
       "2025-12-27": 198,
       "2025-12-26": 189,
       "2025-12-25": 157,
@@ -217,7 +217,7 @@
       "2025-12-05": 57,
       "2025-12-04": 180,
       "2025-12-03": 228,
-      "2025-12-02": 50
+      "2025-12-02": 16
     }
   },
   {
@@ -226,7 +226,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/$upptime_grafana.ico",
     "slug": "my-grafana-dashboard",
     "status": "up",
-    "uptime": "98.85%",
+    "uptime": "98.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "87.00%",
@@ -281,7 +281,7 @@
     "timeMonth": 0,
     "timeYear": 575,
     "dailyMinutesDown": {
-      "2025-12-28": 410,
+      "2025-12-28": 620,
       "2025-12-27": 1440,
       "2025-12-26": 1440,
       "2025-12-25": 1440,
