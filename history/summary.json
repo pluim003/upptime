@@ -14,7 +14,7 @@
     "timeDay": 836,
     "timeWeek": 1223,
     "timeMonth": 835,
-    "timeYear": 683,
+    "timeYear": 682,
     "dailyMinutesDown": {
       "2025-12-30": 17,
       "2025-12-28": 103,
@@ -102,7 +102,7 @@
     "timeDay": 5123,
     "timeWeek": 4754,
     "timeMonth": 4915,
-    "timeYear": 4341,
+    "timeYear": 4342,
     "dailyMinutesDown": {
       "2025-12-30": 17,
       "2025-12-28": 102,
@@ -182,19 +182,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "92.37%",
+    "uptimeDay": "92.32%",
     "uptimeWeek": "89.13%",
-    "uptimeMonth": "92.28%",
+    "uptimeMonth": "92.33%",
     "uptimeYear": "99.36%",
     "time": 703,
-    "timeDay": 660,
-    "timeWeek": 769,
+    "timeDay": 661,
+    "timeWeek": 768,
     "timeMonth": 771,
     "timeYear": 704,
     "dailyMinutesDown": {
-      "2025-12-30": 110,
+      "2025-12-30": 111,
       "2025-12-29": 101,
       "2025-12-28": 231,
       "2025-12-27": 198,
@@ -219,7 +219,7 @@
       "2025-12-07": 158,
       "2025-12-06": 169,
       "2025-12-05": 57,
-      "2025-12-04": 114
+      "2025-12-04": 90
     }
   },
   {
@@ -283,7 +283,7 @@
     "timeMonth": 0,
     "timeYear": 569,
     "dailyMinutesDown": {
-      "2025-12-30": 1413,
+      "2025-12-30": 1437,
       "2025-12-29": 1440,
       "2025-12-28": 1440,
       "2025-12-27": 1440,
