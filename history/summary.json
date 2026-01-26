@@ -105,7 +105,7 @@
     "timeDay": 5851,
     "timeWeek": 5180,
     "timeMonth": 5378,
-    "timeYear": 4388,
+    "timeYear": 4389,
     "dailyMinutesDown": {
       "2026-01-25": 56,
       "2026-01-23": 16,
@@ -186,18 +186,19 @@
     "url": "https://www.piercedarrows.nl",
     "icon": "https://icons.duckduckgo.com/ip3/www.piercedarrows.nl.ico",
     "slug": "pierced-arrows",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "86.90%",
-    "uptimeWeek": "90.51%",
-    "uptimeMonth": "91.93%",
-    "uptimeYear": "99.33%",
-    "time": 717,
-    "timeDay": 972,
-    "timeWeek": 874,
-    "timeMonth": 858,
+    "uptimeDay": "86.85%",
+    "uptimeWeek": "90.50%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "99.34%",
+    "time": 718,
+    "timeDay": 987,
+    "timeWeek": 877,
+    "timeMonth": 859,
     "timeYear": 719,
     "dailyMinutesDown": {
+      "2026-01-26": 1,
       "2026-01-25": 188,
       "2026-01-24": 99,
       "2026-01-23": 100,
@@ -223,7 +224,7 @@
       "2026-01-03": 39,
       "2026-01-02": 65,
       "2026-01-01": 148,
-      "2025-12-31": 63
+      "2025-12-31": 24
     }
   },
   {
@@ -286,7 +287,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-26": 56,
+      "2026-01-26": 200,
       "2026-01-25": 1440,
       "2026-01-24": 1440,
       "2026-01-23": 1440,
