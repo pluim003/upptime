@@ -244,8 +244,8 @@
     "slug": "my-grafana-dashboard",
     "status": "down",
     "uptime": "98.81%",
-    "uptimeDay": "1.34%",
-    "uptimeWeek": "84.23%",
+    "uptimeDay": "1.27%",
+    "uptimeWeek": "84.22%",
     "uptimeMonth": "96.25%",
     "uptimeYear": "98.11%",
     "time": 1225,
@@ -254,7 +254,7 @@
     "timeMonth": 1399,
     "timeYear": 1303,
     "dailyMinutesDown": {
-      "2026-02-13": 814,
+      "2026-02-13": 815,
       "2026-02-12": 607,
       "2026-02-07": 129,
       "2026-02-06": 40,
@@ -303,7 +303,7 @@
     "timeMonth": 718,
     "timeYear": 718,
     "dailyMinutesDown": {
-      "2026-02-13": 814,
+      "2026-02-13": 815,
       "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
@@ -676,18 +676,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/hass.dickpluim.nl.ico",
     "slug": "home-assistant",
     "status": "down",
-    "uptime": "0.82%",
-    "uptimeDay": "0.82%",
-    "uptimeWeek": "0.82%",
-    "uptimeMonth": "0.82%",
-    "uptimeYear": "0.82%",
+    "uptime": "0.35%",
+    "uptimeDay": "0.35%",
+    "uptimeWeek": "0.35%",
+    "uptimeMonth": "0.35%",
+    "uptimeYear": "0.35%",
     "time": 878,
     "timeDay": 878,
     "timeWeek": 878,
     "timeMonth": 878,
     "timeYear": 878,
     "dailyMinutesDown": {
-      "2026-02-13": 1
+      "2026-02-13": 2
     }
   }
 ]
