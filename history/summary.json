@@ -195,17 +195,18 @@
     "slug": "pierced-arrows",
     "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "84.40%",
-    "uptimeWeek": "86.31%",
-    "uptimeMonth": "89.65%",
-    "uptimeYear": "99.14%",
+    "uptimeDay": "79.42%",
+    "uptimeWeek": "85.60%",
+    "uptimeMonth": "89.48%",
+    "uptimeYear": "99.12%",
     "time": 726,
     "timeDay": 1177,
     "timeWeek": 1005,
     "timeMonth": 936,
     "timeYear": 727,
     "dailyMinutesDown": {
-      "2026-02-14": 225,
+      "2026-02-15": 65,
+      "2026-02-14": 231,
       "2026-02-13": 90,
       "2026-02-12": 532,
       "2026-02-11": 312,
@@ -295,9 +296,9 @@
     "status": "up",
     "uptime": "17.50%",
     "uptimeDay": "97.28%",
-    "uptimeWeek": "18.65%",
-    "uptimeMonth": "2.38%",
-    "uptimeYear": "0.36%",
+    "uptimeWeek": "19.36%",
+    "uptimeMonth": "2.55%",
+    "uptimeYear": "0.37%",
     "time": 605,
     "timeDay": 558,
     "timeWeek": 597,
@@ -667,8 +668,7 @@
       "2025-02-19": 1440,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
-      "2025-02-16": 1440,
-      "2025-02-15": 1440
+      "2025-02-16": 1440
     }
   }
 ]
