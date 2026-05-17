@@ -1,7 +1,7 @@
 url: https://$UPPTIME_GRAFANA
 status: down
 code: 401
-responseTime: 462
-lastUpdated: 2026-05-16T23:40:40.000Z
+responseTime: 440
+lastUpdated: 2026-05-17T23:47:56.308Z
 startTime: 2022-12-07T07:49:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
