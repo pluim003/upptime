@@ -1,7 +1,7 @@
 url: https://kunstrijclubgroningen.nl
-status: up
-code: 200
-responseTime: 3500
-lastUpdated: 2026-10-19T00:35:28.290Z
+status: down
+code: 500
+responseTime: 1417
+lastUpdated: 2026-10-19T06:47:42.725Z
 startTime: 2022-12-07T07:49:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
